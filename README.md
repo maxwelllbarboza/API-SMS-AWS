@@ -1,3 +1,4 @@
-﻿# api-sns-aws
+﻿# projeto- API de Envio de SMS
 
-  API com Node e Express, utilizando o serviço SNS da AWS.
+* Utilização do Node e Express
+* SNS da AWS
